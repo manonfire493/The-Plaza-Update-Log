@@ -13,6 +13,7 @@ V.01
 -Moved Tunnel A
 -Shrine Room has lost some of its illustrations
 -Anchored some things
+-Anchored more
 
 -True Dokkaebi now has her Logic Bomb
 
