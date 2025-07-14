@@ -11,6 +11,7 @@ V.01
 -Moved Ice-Cream Shop
 -Extended Mountain
 -Moved Tunnel A
+-Shrine Room has lost some of the illustrations, Perhaps they can be found elsewhere
 -Anchored some things
 
 -True Dokkaebi now has her Logic Bomb
