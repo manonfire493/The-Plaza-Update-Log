@@ -3,6 +3,7 @@ The Plaza Update Log
 V.01
 -Added Update Log
 -Added Beach
+-New Badge for finding "The Secret"
 -Added Advanced Movement
 -Adjusted Miku Statue Button
 -Temporarily removed the HBCs
