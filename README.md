@@ -4,6 +4,7 @@ V.01
 -Added Update Log
 -Added Beach
 -Added Beach-related props
+-Added Luke
 -New Badge for finding "The Secret"
 -Added Advanced Movement
 -Swapped Nitro Cell and HBC, contradictory to how they were used previously
