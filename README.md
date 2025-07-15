@@ -5,6 +5,7 @@ V.01
 -Added Beach
 -New Badge for finding "The Secret"
 -Added Advanced Movement
+-Swapped Nitro Cell and HBC, contradictory to how they were used previously
 -Adjusted Miku Statue Button
 -Temporarily removed the HBCs
 -DIRG's floor extended
