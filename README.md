@@ -21,6 +21,7 @@ V.01
 -Shrine Room has lost some of its illustrations
 -Anchored some things
 -Fixed Dokkaebi's glasses
+-Fixed a ton of sound-related errors
 
 -True Dokkaebi now has her Logic Bomb
 -Added secret room in the Throne Room
