@@ -1,7 +1,7 @@
 The Plaza Update Log
 
 V.01
-
+-Added Update Log
 -Added Beach
 -Added Advanced Movement
 -Adjusted Miku Statue Button
