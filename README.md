@@ -16,6 +16,4 @@ V.01
 -Anchored more
 
 -True Dokkaebi now has her Logic Bomb
-
 -Added secret room in the Throne Room
-sigma
