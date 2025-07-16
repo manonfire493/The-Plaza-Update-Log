@@ -22,6 +22,10 @@ V.01
 -Anchored some things
 -Fixed Dokkaebi's glasses
 -Fixed a ton of sound-related errors
+-Shortened Castle Barricade destroy timer
+-Grouped a TON of things together to make the Workspace cleaner
+-Adjusted MountainA wall to stop clipping
+-A bit of optimization for frames
 
 -True Dokkaebi now has her Logic Bomb
 -Added secret room in the Throne Room
