@@ -1,4 +1,6 @@
 The Plaza Update Log
+V.02
+-Added a dialogue option to True Dokkaebi to account for the new room
 
 V.01
 -Added Update Log
