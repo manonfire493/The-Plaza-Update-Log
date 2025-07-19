@@ -1,7 +1,19 @@
 The Plaza Update Log
 V.02
+-New Buildings
+-New Capital Floorplan
+-Re-added the HBC
+-More Trees, Bushes, Flowers, and Grass
+-Some of the Mountain has eroded and revealed a town
+-Extended the Mountain and related terrain
+-Re-modelled the Beach stairs
 -Added a dialogue option to True Dokkaebi to account for the new room
+-Fixed some roll-clipping
+-Thickened some geometry to stop further roll-clipping
+-Added some placeholders for floors
 -Fixed some infinite yield errors
+-Fixed some gaps between terrain on the Mountain
+-Fixed a TON of Z-Fighting
 
 V.01
 -Added Update Log
