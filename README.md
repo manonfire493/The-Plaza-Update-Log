@@ -1,5 +1,6 @@
 The Plaza Update Log
 V.02
+-Removed some... questionable Dokkaebi decals to the dismay of manonfire493
 -New Buildings
 -New Capital Floorplan
 -Re-added the HBC
