@@ -1,4 +1,7 @@
 The Plaza Update Log
+V.03
+-Fired Animator (useless idiot)
+
 V.02
 -Removed some... questionable Dokkaebi decals to the dismay of manonfire493
 -New Buildings
